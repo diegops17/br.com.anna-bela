@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: rgb(185, 185, 185) url("../imagens/fundo.png");
+    font-family: verdana;
+    border: 2px solid red;
+}
